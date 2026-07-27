@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sahupriti04/Practice/tree/master/0001-two-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahupriti04/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3151-special-array-i](https://github.com/sahupriti04/Practice/tree/master/3151-special-array-i) |
 ## Sorting
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahupriti04/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sahupriti04/Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
