@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahupriti04/Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahupriti04/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahupriti04/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sahupriti04/Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3151-special-array-i](https://github.com/sahupriti04/Practice/tree/master/3151-special-array-i) |
 ## Sorting
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahupriti04/Practice/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sahupriti04/Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sahupriti04/Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
